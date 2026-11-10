@@ -1,0 +1,6 @@
+streamlit>=1.46
+pandas>=2.1
+plotly>=5.24
+requests>=2.31
+python-telegram-bot>=21
+tzdata>=2025.1
